@@ -2,6 +2,7 @@
   "name": "game-website",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://Mahmoud05-jpg.github.io/tic-tac-toe-game/",
   "type": "module",
   "scripts": {
     "dev": "vite",
